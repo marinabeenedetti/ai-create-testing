@@ -1,5 +1,4 @@
 ## 👏 Utilizando AI para criar testes em Python
-Projeto inicial feito pelo Henrique Breda, utilizando ele para aprimorar meus conhecimentos em playwright.
 
 ## 💡 Technologies used
 
