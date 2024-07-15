@@ -1,3 +1,16 @@
+## 👏 Utilizando AI para criar testes em Python
+Projeto inicial feito pelo Henrique Breda, utilizando ele para aprimorar meus conhecimentos em playwright.
+
+## 💡 Technologies used
+
+- [x] Python
+- [x] PyTest
+- [x] OpenAI
+
+
+## 🌎 License
+
+This project is under the MIT license. See the [LICENSE](https://choosealicense.com/licenses/mit/) file for more details.
 # ai-create-testing
 
 ## Sobre:
